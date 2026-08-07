@@ -1,0 +1,3 @@
+Running ABM simulation (100000 workers, 2000 firms, 110 steps)...
+Julia (1st run - JIT compiling): 10.014 seconds
+Julia (2nd run - Precompiled): 10.035 seconds
